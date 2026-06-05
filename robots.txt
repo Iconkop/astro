@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.xusue.com/sitemap-index.xml
+Sitemap: https://xusue.com/sitemap-index.xml
